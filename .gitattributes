@@ -1,2 +1,4 @@
 * text=auto !eol
 /apertium-swa-eng.swa-eng.dix -text
+dev/apertium-sw-en.sw-en.dix -text
+dev/apertium-sw-en.sw.dix -text
